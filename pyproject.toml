@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "py-hugging-face"
+version = "0.1.0"
+description = ""
+authors = ["Jonny <ji394su311203106@gmail.com>"]
+readme = "README.md"
+packages = [{include = "py_hugging_face"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
