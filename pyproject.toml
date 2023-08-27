@@ -11,6 +11,8 @@ python = "^3.11"
 transformers = "^4.32.0"
 sentencepiece = "^0.1.99"
 sacremoses = "^0.0.53"
+torch = "^2.0.1"
+emoji = "0.6.0"
 
 
 [build-system]
